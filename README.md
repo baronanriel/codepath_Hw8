@@ -38,6 +38,3 @@ Vulnerability #1: Insecure Direct Object Reference
 Vulnerability #2: Cross-Site Request Forgery
 ![](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_CSRF.gif)
 
-## Notes
-
-Describe any challenges encountered while doing the work
