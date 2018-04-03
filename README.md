@@ -20,7 +20,7 @@ Vulnerability #1: SQL Injection
 ![](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_SQLi.gif)
 
 Vulnerability #2: Session Fixation
-[](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_sessionFixation.gif)
+![](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_sessionFixation.gif)
 
 ## Green
 
@@ -33,10 +33,10 @@ Vulnerability #2: User Enumeration
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
-[](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_IDOR.gif)
+![](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_IDOR.gif)
 
 Vulnerability #2: Cross-Site Request Forgery
-[](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_CSRF.gif)
+![](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_CSRF.gif)
 
 ## Notes
 
