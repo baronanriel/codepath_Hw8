@@ -17,10 +17,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
-![](my_gif_walkthrough_url)
+[](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_SQLi.gif)
 
 Vulnerability #2: Session Fixation
-![](my_gif_walkthrough_url)
+[](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_sessionFixation.gif)
 
 ## Green
 
@@ -33,10 +33,10 @@ Vulnerability #2: User Enumeration
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
-![](my_gif_walkthrough_url)
+[](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_IDOR.gif)
 
 Vulnerability #2: Cross-Site Request Forgery
-![](my_gif_walkthrough_url)
+[](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_CSRF.gif)
 
 ## Notes
 
