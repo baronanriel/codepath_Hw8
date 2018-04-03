@@ -17,23 +17,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
+![](my_gif_walkthrough_url)
 
-Vulnerability #2: Session Fixation (though, I was able to recreate this for blue as well).
-
+Vulnerability #2: Session Fixation
+![](my_gif_walkthrough_url)
 
 ## Green
 
 Vulnerability #1: Cross-Site Scripting (XSS)
+![](my_gif_walkthrough_url)
 
 Vulnerability #2: User Enumeration
-
+![](my_gif_walkthrough_url)
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
+![](my_gif_walkthrough_url)
 
 Vulnerability #2: Cross-Site Request Forgery
-
+![](my_gif_walkthrough_url)
 
 ## Notes
 
