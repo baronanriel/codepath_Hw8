@@ -25,10 +25,10 @@ Vulnerability #2: Session Fixation
 ## Green
 
 Vulnerability #1: Cross-Site Scripting (XSS)
-![](my_gif_walkthrough_url)
+![](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_XSS.gif)
 
 Vulnerability #2: User Enumeration
-![](my_gif_walkthrough_url)
+![](https://github.com/baronanriel/codepath_Hw8/blob/master/codepathWk8_UserEnum.gif)
 
 ## Red
 
